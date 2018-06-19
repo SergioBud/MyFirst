@@ -1,1 +1,1 @@
-This is my first repository and ReadMe file for it
+This is my first repository with friend.
